@@ -25,7 +25,7 @@ const JohnHika = {
 
 | # | Title | Vibe |
 |---|-------|------|
-| 1 | 🔥 **Renegade Immortal** | Action / Adventure |
+| 1 | 🔥 **Renegade Immora** | Action / Adventure |
 | 2 | 💥 **Battle Through the Heavens (BTTH)** | Cultivation / Epic |
 | 3 | 🗡️ **Solo Leveling** | Power Fantasy / Action |
 | 4 | 🦖 **Kaiju No. 8** | Monster / Shonen |
