@@ -1,111 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=A960EE&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+JohnHika+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Dreamer;Anime+%2B+Code+%2B+Games+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=John+Hika;Software+Engineering+Student;Building+reliable+ideas+into+real+software" alt="John Hika typing introduction" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=160&section=header&text=JohnHika&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+Anime+Enjoyer+%7C+Gamer&descAlignY=62&descAlign=50" />
-</p>
+<div align="center">
+  <a href="https://github.com/JohnHika">
+    <img src="https://img.shields.io/badge/GitHub-JohnHika-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="JohnHika on GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JohnHika&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
----
+<br />
 
-## 🧬 About Me
-
-```typescript
-const JohnHika = {
-  role:       "Software Engineer",
-  passion:    ["Building things", "Learning", "Gaming", "Anime"],
-  currentlyBuilding: "The future, one commit at a time 🚀",
-  funFact:    "My code compiles on the first try... sometimes.",
+```ts
+const engineer = {
+  name: "John Hika",
+  focus: "Software engineering",
+  mission: "Turn useful ideas into dependable digital products.",
+  currentlyLearning: ["System design", "Cloud-native development", "AI-assisted software"],
+  interests: ["Web engineering", "Developer tools", "Problem solving"],
 };
 ```
 
----
+## Engineering Focus
 
-## ⚔️ Favorite Anime
+I am a software engineering student who enjoys taking a feature from a rough idea to a well-structured, working product. I care about readable code, thoughtful interfaces, and systems that are simple to maintain. This profile is a record of what I am building, learning, and improving in public.
 
-| # | Title | Vibe |
-|---|-------|------|
-| 1 | 🔥 **Renegade Immortal** | Action / Adventure |
-| 2 | 💥 **Battle Through the Heavens (BTTH)** | Cultivation / Epic |
-| 3 | 🗡️ **Solo Leveling** | Power Fantasy / Action |
-| 4 | 🦖 **Kaiju No. 8** | Monster / Shonen |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Building</h3>
+      <ul>
+        <li>Responsive web experiences</li>
+        <li>Full-stack applications and APIs</li>
+        <li>Automation and AI-powered workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Working Principles</h3>
+      <ul>
+        <li>Learn deeply, then ship deliberately</li>
+        <li>Prefer clarity over unnecessary complexity</li>
+        <li>Keep improving through real projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+## Technical Toolkit
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,postgres,docker,git,githubactions&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Docker, Git, and GitHub Actions" />
+</div>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <!-- Backend / Runtime -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <!-- AI / Tooling -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<br />
 
----
+| Area | Technologies |
+| :-- | :-- |
+| Languages | TypeScript, JavaScript, Python |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Node.js, REST APIs, PostgreSQL |
+| Delivery | Docker, Git, GitHub Actions |
+| Exploring | OpenAI tooling, system design, cloud-native patterns |
 
-## 📊 Live GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JohnHika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohnHika&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&ring_color=22D3EE&include_all_commits=true&count_private=true" alt="John Hika's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHika&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Most used languages" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JohnHika&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JohnHika&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="John Hika's contribution streak" />
+</div>
 
----
+## Beyond the Terminal
 
-## 🏆 Trophies
+When I am not writing code, I recharge with games and anime. Current favorites include **Renegade Immortal**, **Battle Through the Heavens**, **Solo Leveling**, and **Kaiju No. 8**. Curiosity, strategy, and continuous progress show up in both the stories I enjoy and the software I build.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnHika&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
+## Connect
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnHika/JohnHika/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnHika/JohnHika/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JohnHika/JohnHika/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/JohnHika">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Follow John Hika on GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-A960EE?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" />
-</p>
+<br />
+
+<div align="center">
+  <sub>Designed with intent. Built one commit at a time.</sub>
+</div>
