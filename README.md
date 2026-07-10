@@ -613,3 +613,7 @@ Progress is showing up again with better questions.
 Progress is work that remains useful after the excitement of the first release has passed.
 
 Progress is a profile that tells the truth and still makes room to grow.
+
+Progress is a useful README, a thoughtful commit, and a better question tomorrow.
+
+Progress is built one deliberate iteration at a time.
