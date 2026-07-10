@@ -617,3 +617,7 @@ Progress is a profile that tells the truth and still makes room to grow.
 Progress is a useful README, a thoughtful commit, and a better question tomorrow.
 
 Progress is built one deliberate iteration at a time.
+
+Progress is the habit of making the next version more understandable.
+
+Progress is the reason this profile keeps evolving.
