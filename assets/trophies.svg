@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub achievement shelf</title><desc id="desc">Achievement cards representing consistency, collaboration, and learning.</desc>
+  <rect width="1000" height="160" rx="12" fill="#0d1117" stroke="#164e63" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(84 28)"><circle cx="48" cy="40" r="34" fill="#164e63" stroke="#22d3ee"/><text x="48" y="50" font-size="27">&lt;/&gt;</text><text x="48" y="108" fill="#e2e8f0" font-size="13">CODE CRAFT</text></g>
+    <g transform="translate(284 28)"><circle cx="48" cy="40" r="34" fill="#164e63" stroke="#22d3ee"/><text x="48" y="50" font-size="27">*</text><text x="48" y="108" fill="#e2e8f0" font-size="13">CONSISTENCY</text></g>
+    <g transform="translate(484 28)"><circle cx="48" cy="40" r="34" fill="#164e63" stroke="#22d3ee"/><text x="48" y="50" font-size="27">+</text><text x="48" y="108" fill="#e2e8f0" font-size="13">COLLABORATION</text></g>
+    <g transform="translate(684 28)"><circle cx="48" cy="40" r="34" fill="#164e63" stroke="#22d3ee"/><text x="48" y="50" font-size="27">#</text><text x="48" y="108" fill="#e2e8f0" font-size="13">LEARNING</text></g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">John Hika engineering dashboard</title>
+  <desc id="desc">A local visual summary of software engineering focus areas.</desc>
+  <rect width="1200" height="300" rx="12" fill="#0d1117" stroke="#164e63" stroke-width="2"/>
+  <g font-family="Arial, sans-serif">
+    <text x="44" y="48" fill="#67e8f9" font-size="24" font-weight="700">ENGINEERING DASHBOARD</text>
+    <text x="44" y="76" fill="#94a3b8" font-size="14">A practical view of the problems I like to solve</text>
+    <g transform="translate(44 112)">
+      <rect width="250" height="132" rx="8" fill="#111827" stroke="#155e75"/><text x="20" y="36" fill="#22d3ee" font-size="16" font-weight="700">BUILD</text><text x="20" y="65" fill="#e2e8f0" font-size="14">Web apps &amp; APIs</text><text x="20" y="89" fill="#94a3b8" font-size="13">Interfaces that feel clear</text><text x="20" y="110" fill="#94a3b8" font-size="13">and work reliably</text>
+      <rect x="275" width="250" height="132" rx="8" fill="#111827" stroke="#155e75"/><text x="295" y="36" fill="#22d3ee" font-size="16" font-weight="700">THINK</text><text x="295" y="65" fill="#e2e8f0" font-size="14">Systems &amp; structure</text><text x="295" y="89" fill="#94a3b8" font-size="13">Boundaries that keep</text><text x="295" y="110" fill="#94a3b8" font-size="13">complexity understandable</text>
+      <rect x="550" width="250" height="132" rx="8" fill="#111827" stroke="#155e75"/><text x="570" y="36" fill="#22d3ee" font-size="16" font-weight="700">IMPROVE</text><text x="570" y="65" fill="#e2e8f0" font-size="14">Quality &amp; delivery</text><text x="570" y="89" fill="#94a3b8" font-size="13">Feedback, tests, docs,</text><text x="570" y="110" fill="#94a3b8" font-size="13">and deliberate iteration</text>
+      <rect x="825" width="250" height="132" rx="8" fill="#111827" stroke="#155e75"/><text x="845" y="36" fill="#22d3ee" font-size="16" font-weight="700">EXPLORE</text><text x="845" y="65" fill="#e2e8f0" font-size="14">Cloud &amp; AI tooling</text><text x="845" y="89" fill="#94a3b8" font-size="13">New tools evaluated</text><text x="845" y="110" fill="#94a3b8" font-size="13">through useful projects</text>
+    </g>
+  </g>
+</svg>

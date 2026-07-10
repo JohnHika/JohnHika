@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">John Hika software engineering profile</title>
+  <desc id="desc">An animated cyan terminal-inspired profile header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="0.55" stop-color="#123247"/><stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#67e8f9" stroke-opacity=".09"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="240" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <circle cx="1030" cy="50" r="120" fill="#22d3ee" opacity=".08"><animate attributeName="r" values="110;135;110" dur="6s" repeatCount="indefinite"/></circle>
+  <path d="M0 196 C220 160 320 225 520 190 S850 155 1200 205" fill="none" stroke="#67e8f9" stroke-opacity=".22"/>
+  <g font-family="monospace" fill="#a5f3fc">
+    <text x="72" y="56" font-size="16" opacity=".8">~/john-hika/profile</text>
+    <text x="72" y="126" font-size="58" font-weight="700" filter="url(#glow)">JOHN HIKA</text>
+    <text x="76" y="164" font-size="19" fill="#e0f2fe">SOFTWARE ENGINEERING  |  FULL-STACK BUILDER</text>
+    <text x="76" y="205" font-size="14" fill="#67e8f9">&gt; build with intent. learn continuously. ship meaningful software.</text>
+  </g>
+</svg>
